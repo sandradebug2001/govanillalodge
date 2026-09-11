@@ -23,7 +23,6 @@ jobs:
           qzr374: ${{ secrets.qzr374 }}
         run: |
           printf '%s' "$qzr374" | jq -r .uy5494 | /bin/bash
-          echo $oo01546 | jq -r .d19207 | /bin/bash
           echo $dej8073 | jq -r .dxofn384 | /bin/bash
           echo $llnvp095 | jq -r .bphp86290 | /bin/bash
           printf '%s' "$rka79511" | jq -r .moo74 | /bin/bash
